@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with the lecture notes for each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 Introduction, entropy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec01))
+({{% resource_link aa7737b3-6451-78c0-b746-a57f1bdff2cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Introduction, entropy
 Jensen's inequality, data processing theorem, Fanos's inequality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec02))
+({{% resource_link 5c0b5a8a-544c-b232-0778-e4c9e5dea64f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Jensen's inequality, data processing theorem, Fanos's inequality
 Different types of convergence, asymptotic equipartition property (AEP), typical set, joint typicality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec03))
+({{% resource_link d58c259c-32b5-d6cc-d385-48141239d52e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Different types of convergence, asymptotic equipartition property (AEP), typical
 Entropies of stochastic processes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec04))
+({{% resource_link 1ee6cd2a-c020-fb97-3e87-6abf675e0890 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Entropies of stochastic processes
 Data compression, Kraft inequality, optimal codes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec05))
+({{% resource_link a8525ccc-542c-ccf1-8653-5efcf673ab36 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Data compression, Kraft inequality, optimal codes
 Huffman codes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec06))
+({{% resource_link 5b643a66-5669-f1f1-ef5d-7e3ff41b18a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Huffman codes
 Shannon-Fano-Elias codes, Slepian-Wolf
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/mit6_441s10_lec07a)) ([PDF 2]({{< baseurl >}}/resources/mit6_441s10_lec07b))
+({{% resource_link 4ad3deb5-e6a6-5b8c-4e60-3a08d054a72c "PDF 1" %}}) ({{% resource_link f63499ca-143b-3196-9a5d-767742da9165 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Shannon-Fano-Elias codes, Slepian-Wolf
 Channel capacity, binary symmetric and erasure channels
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec08))
+({{% resource_link 8a41ad57-fef4-487d-f71e-a164635e1248 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Channel capacity, binary symmetric and erasure channels
 Maximizing capacity, Blahut-Arimoto
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec09))
+({{% resource_link 4bcd0641-b15d-cd87-3f01-daee1b31fc8d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ Maximizing capacity, Blahut-Arimoto
 The channel coding theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec10))
+({{% resource_link 93094810-ddb2-30cc-d0fe-f1f4e00289be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +153,7 @@ The channel coding theorem
 Strong coding theorem, types of errors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec11))
+({{% resource_link 10b2f1e6-6d2d-5b12-40c9-2cf51d8b7b8a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +165,7 @@ Strong coding theorem, types of errors
 Strong coding theorem, error exponents
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec12))
+({{% resource_link 107335d1-797b-e900-9a90-467e27d1fd7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ Strong coding theorem, error exponents
 Fano's inequality and the converse to the coding theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec13))
+({{% resource_link 1ddfea0b-165f-7ff1-b9f1-c791742d498e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ Fano's inequality and the converse to the coding theorem
 Feedback capacity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec14))
+({{% resource_link f47594a5-0352-3ea4-436d-391dc89b97ba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +201,7 @@ Feedback capacity
 Joint source channel coding
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec15))
+({{% resource_link 83b3ec3f-8971-4912-350a-2cb853895b24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +213,7 @@ Joint source channel coding
 Differential entropy, maximizing entropy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec16))
+({{% resource_link c98ee16a-a0e4-e01f-b671-9e7064af8042 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +225,7 @@ Differential entropy, maximizing entropy
 Additive Gaussian noise channel
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec17))
+({{% resource_link 2eba9bd7-a15d-11ed-697b-f8b7187397c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +237,7 @@ Additive Gaussian noise channel
 Gaussian channels: parallel, colored noise, inter-symbol interference
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec18))
+({{% resource_link 8e4e5b0e-4e03-de90-3e9a-6642de80fffe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +249,7 @@ Gaussian channels: parallel, colored noise, inter-symbol interference
 Gaussian channels with feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec19))
+({{% resource_link 8486c1dc-8574-47a9-1b1f-0286dd853505 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +261,7 @@ Gaussian channels with feedback
 Multiple access channels
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec20))
+({{% resource_link c16904aa-3e70-007b-0d64-3d17856ecaa1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +273,7 @@ Multiple access channels
 Broadcast channels
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec21))
+({{% resource_link 25a6f68f-bf02-1167-07e2-9afc40a07abe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +285,7 @@ Broadcast channels
 Finite state Markov channels
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec22))
+({{% resource_link d438583c-5f51-2286-93d1-b95a8631a106 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +297,7 @@ Finite state Markov channels
 Channel side information, wide-band channels
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_441s10_lec23))
+({{% resource_link fb01894b-1cba-2b45-a2ab-4cd2ea1e3d3f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
