@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of reading assignments by lecture
+  topic, information on the course textbook, and a list of optional supplementary
+  readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
